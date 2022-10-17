@@ -1,0 +1,30 @@
+.header {
+    height: 6em;
+    padding: 25px;
+    text-align: center;
+    font-family:fantasy;
+    background-image: linear-gradient(to bottom right, orange,white,green);
+    margin-bottom: 50px;
+  }
+.image{
+    width: 400px;
+    border-radius: 30px;
+    border: 1px solid red;
+}
+p{
+    text-align: center;
+    text-decoration-style: solid;
+    font-style: bold;
+    font-size: 20px;
+    padding: 20px;
+}
+body{
+    background-image: linear-gradient(to right, rgb(215, 201, 183), white, rgb(165, 204, 165));
+}
+.footer{
+    padding: 20px;
+    text-align: center;
+    font-family: 'Kanit', sans-serif;
+    font-style: bold;
+    background-image: radial-gradient( #9CC3D5FF, Aquamarine,#0063B2FF);
+}
